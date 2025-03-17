@@ -1,0 +1,25 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "Alyssa's garage",
+    "established": 20000089,
+    "active": true,
+    "topFlavours": [{
+        "name": "Rainbow LGTVFABC",
+        "calories": 200000,
+        "type": "ice-cream",
+        "ingredients": ["fruit", "rainbows", "anxiety"],
+        "image": "images/chocolate-mint.svg"
+    }, {
+        "name": "Sonic",
+        "calories": 12,
+        "type": "sherbert",
+        "ingredients": ["blueberry", "speed", "chilli-dog"],
+        "image": "images/peach-mango.svg"
+    }, {
+        "name": "Wataru",
+        "calories": 500,
+        "type": "ice-cream",
+        "ingredients": ["dancing", "singing", "gay"],
+        "image": "images/chocolate-mint.svg"
+    }]
+}
